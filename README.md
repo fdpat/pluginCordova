@@ -1,10 +1,10 @@
-Simple plugin Android
+#Simple plugin Android
 =====================
 
 Texte detaillé ici !
 
-<ul>
-    <li>Faire le ficher de structure</li>
-</ul>
+-Faire le ficher de structure
 
 http://fdcanada.ca
+
+~~Patrick Martel~~
